@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there ✌️
 
+- I’m a researcher at Emory University studying infant social learning and learning how to be a better programmer. 
 <!--
 **aidenlhcf/aidenlhcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
